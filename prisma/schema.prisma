@@ -1,0 +1,118 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model SiteSettings {
+  id                Int      @id @default(1)
+  fullName          String   @default("")
+  title             String   @default("")
+  institution       String   @default("")
+  department        String   @default("")
+  bio               String   @default("")
+  profilePhotoUrl   String   @default("")
+  email             String   @default("")
+  phone             String   @default("")
+  address           String   @default("")
+  googleScholarUrl  String   @default("")
+  orcidUrl          String   @default("")
+  researchGateUrl   String   @default("")
+  linkedinUrl       String   @default("")
+  githubUrl         String   @default("")
+  researchInterests String   @default("")
+  updatedAt         DateTime @updatedAt
+}
+
+model AcademicPathEntry {
+  id          Int      @id @default(autoincrement())
+  year        Int
+  endYear     Int?
+  title       String
+  institution String
+  location    String   @default("")
+  description String   @default("")
+  category    String
+  sortOrder   Int      @default(0)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Position {
+  id          Int      @id @default(autoincrement())
+  title       String
+  institution String
+  department  String   @default("")
+  startYear   Int
+  endYear     Int?
+  isCurrent   Boolean  @default(false)
+  description String   @default("")
+  sortOrder   Int      @default(0)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Publication {
+  id        Int      @id @default(autoincrement())
+  category  String
+  authors   String
+  title     String
+  venue     String   @default("")
+  volume    String   @default("")
+  pages     String   @default("")
+  year      Int
+  doi       String   @default("")
+  url       String   @default("")
+  abstract  String   @default("")
+  sortOrder Int      @default(0)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Patent {
+  id           Int      @id @default(autoincrement())
+  authors      String
+  title        String
+  patentNumber String
+  date         String
+  country      String   @default("")
+  description  String   @default("")
+  url          String   @default("")
+  sortOrder    Int      @default(0)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model Project {
+  id          Int      @id @default(autoincrement())
+  title       String
+  acronym     String   @default("")
+  role        String   @default("")
+  funder      String   @default("")
+  reference   String   @default("")
+  startYear   Int
+  endYear     Int?
+  description String   @default("")
+  url         String   @default("")
+  sortOrder   Int      @default(0)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Student {
+  id           Int      @id @default(autoincrement())
+  name         String
+  category     String
+  thesisTitle  String   @default("")
+  startYear    Int
+  endYear      Int?
+  status       String   @default("ongoing")
+  coSupervisor String   @default("")
+  institution  String   @default("")
+  sortOrder    Int      @default(0)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
