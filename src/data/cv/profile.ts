@@ -5,6 +5,20 @@ export const profile = {
   orcid: "0000-0001-7986-3754",
   orcidUrl: "https://orcid.org/0000-0001-7986-3754",
   email: "ricardo.rodrigues@dtx-colab.pt",
+  /** DTx postal address and switchboard, as published on dtx-colab.pt/en/contacts. */
+  address: [
+    "DTx — Digital Transformation CoLAB",
+    "Campus de Azurém, Edifício 1",
+    "Universidade do Minho",
+    "4800-058 Guimarães",
+  ],
+  phone: "+351 253 510 045",
+  /** Staff pages at the institutions where he currently works. */
+  institutionalPages: [
+    { label: "DTx — Digital Transformation CoLAB", url: "https://www.dtx-colab.pt/" },
+    { label: "Universidade da Maia", url: "https://www.umaia.pt/pt/universidade/corpo-docente/nelson-ricardo-martins-rodrigues" },
+    { label: "Universidade Católica Portuguesa — Braga", url: "https://ffcs.braga.ucp.pt/pt-pt/pessoa/nelson-ricardo-martins-rodrigues-0" },
+  ],
   linkedin: "https://www.linkedin.com/in/nelson-ricardo-rodrigues-32b40916/",
   country: "Portugal",
   keywords: ["Industry 4.0", "Intelligent Manufacturing", "Cyber-Physical Systems", "Artificial Intelligence"],
@@ -20,7 +34,7 @@ export const profile = {
     { label: "Scopus Author ID", value: "23394047400", url: "https://www.scopus.com/authid/detail.uri?authorId=23394047400" },
     { label: "ResearcherID", value: "J-2190-2014", url: "https://www.webofscience.com/wos/author/record/J-2190-2014" },
     { label: "Google Scholar", value: "bX0Dk6QAAAAJ", url: "https://scholar.google.com/citations?user=bX0Dk6QAAAAJ" },
-    { label: "Ciência ID", value: "071C-6ADD-77C5", url: "http://www.cienciavitae.pt//071C-6ADD-77C5" },
+    { label: "Ciência ID", value: "071C-6ADD-77C5", url: "https://www.cienciavitae.pt/071C-6ADD-77C5" },
     { label: "SciProfiles", value: "1738837", url: "https://sciprofiles.com/profile/1738837" },
   ],
   metrics: {

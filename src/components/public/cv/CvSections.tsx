@@ -38,6 +38,54 @@ export default function CvSections({
                 {sub.intro && <p className="mt-1 text-sm text-slate-600">{sub.intro}</p>}
 
                 <div className="mt-3">
+                  {sub.lines && (
+                    <address className="space-y-0.5 text-sm not-italic leading-relaxed text-slate-700">
+                      {sub.lines.map((line, i) => (
+                        <div key={i}>
+                          {line.label && <span className="text-slate-500">{line.label}: </span>}
+                          {line.url ? (
+                            <a href={line.url} className="text-slate-800 hover:text-primary-700">{line.text}</a>
+                          ) : (
+                            line.text
+                          )}
+                        </div>
+                      ))}
+                    </address>
+                  )}
+
+                  {sub.linkTable && (
+                    <div className="overflow-x-auto">
+                      <table className="w-full border-collapse text-left text-sm">
+                        <thead>
+                          <tr className="border-b border-slate-300 text-xs uppercase tracking-wide text-slate-500">
+                            <th scope="col" className="py-2 pr-6 font-semibold">{sub.linkTable.head[0]}</th>
+                            <th scope="col" className="py-2 font-semibold">{sub.linkTable.head[1]}</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          {sub.linkTable.rows.map((row) => (
+                            <tr key={row.label} className="border-b border-slate-100 align-top">
+                              <th scope="row" className="py-2 pr-6 font-normal text-slate-700">{row.label}</th>
+                              <td className="py-2">
+                                {row.urls.map((url) => (
+                                  <a
+                                    key={url}
+                                    href={url}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="block break-all text-slate-800 hover:text-primary-700"
+                                  >
+                                    {url.replace(/^https?:\/\//, "").replace(/\/$/, "")}
+                                  </a>
+                                ))}
+                              </td>
+                            </tr>
+                          ))}
+                        </tbody>
+                      </table>
+                    </div>
+                  )}
+
                   {sub.entries && list(sub.entries)}
 
                   {sub.groups && (

@@ -297,31 +297,38 @@ function other(lang: Lang): CvPage {
 /* ------------------------------------------------------------- contacts */
 
 function contacts(lang: Lang): CvPage {
-  const current = employments.filter((e) => !e.end).sort(byDateDesc);
+  const phoneLabel = lang === "pt" ? "Telefone (DTx)" : "Telephone (DTx)";
+  // Google Scholar's user token means nothing on its own, so it is not repeated in the label.
+  const idRows = profile.ids.map((i) => ({
+    label: i.label === "Google Scholar" ? i.label : `${i.label}: ${i.value}`,
+    urls: [i.url],
+  }));
+
   return page("contacts", lang, t(L.contactsSub, lang), t(L.contactsTitle, lang), [
     {
       id: "d1", code: "1", title: t(L.contactDetails, lang),
       subsections: [
         {
-          id: "d1-1", code: "1.1", title: "Email",
-          entries: [{ text: profile.email, url: `mailto:${profile.email}` }],
+          id: "d1-1", code: "1.1", title: t(L.institutionalAddress, lang),
+          lines: profile.address.map((text) => ({ text })),
         },
         {
-          id: "d1-2", code: "1.2", title: t(L.institutional, lang),
-          entries: current.map((e) => roleEntry(e, lang)),
-        },
-      ],
-    },
-    {
-      id: "d2", code: "2", title: t(L.onlineProfiles, lang),
-      subsections: [
-        {
-          id: "d2-1", code: "2.1", title: t(L.identifiers, lang),
-          entries: profile.ids.map((i) => ({ text: i.label, meta: i.value, url: i.url })),
+          id: "d1-2", code: "1.2", title: t(L.contacts, lang),
+          lines: [
+            { label: "E-mail", text: profile.email, url: `mailto:${profile.email}` },
+            { label: phoneLabel, text: profile.phone, url: `tel:${profile.phone.replace(/\s/g, "")}` },
+          ],
         },
         {
-          id: "d2-2", code: "2.2", title: t(L.socialLinks, lang),
-          entries: [{ text: "LinkedIn", url: profile.linkedin }],
+          id: "d1-3", code: "1.3", title: t(L.onlineInformation, lang),
+          linkTable: {
+            head: [t(L.designation, lang), t(L.webpage, lang)],
+            rows: [
+              ...profile.institutionalPages.map((p) => ({ label: p.label, urls: [p.url] })),
+              ...idRows,
+              { label: "LinkedIn", urls: [profile.linkedin] },
+            ],
+          },
         },
       ],
     },

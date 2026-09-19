@@ -27,6 +27,12 @@ export type CvEntry = {
   file?: string;
 };
 
+/** An un-numbered line: one line of a postal address, or "E-mail: …". */
+export type CvLine = { label?: string; text: string; url?: string };
+
+/** A "Designation | Webpage" table, e.g. institutional pages and author profiles. */
+export type CvLinkTable = { head: [string, string]; rows: { label: string; urls: string[] }[] };
+
 /** Third level: the numbered groups ("1. INTERNATIONAL", "2. NATIONAL"). */
 export type CvGroup = { id: string; title: string; entries: CvEntry[] };
 
@@ -38,6 +44,8 @@ export type CvSubsection = {
   intro?: string;
   entries?: CvEntry[];
   groups?: CvGroup[];
+  lines?: CvLine[];
+  linkTable?: CvLinkTable;
 };
 
 /** First level: A1, A2… */

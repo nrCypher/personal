@@ -67,10 +67,11 @@ export const L = {
 
   // Contacts
   contactDetails: { pt: "Dados de Contacto", en: "Contact Details" },
-  institutional: { pt: "Institucional", en: "Institutional" },
-  onlineProfiles: { pt: "Perfis e Identificadores", en: "Profiles and Identifiers" },
-  identifiers: { pt: "Identificadores de autor", en: "Author identifiers" },
-  socialLinks: { pt: "Ligações", en: "Links" },
+  institutionalAddress: { pt: "Endereço Institucional", en: "Institutional Address" },
+  contacts: { pt: "Contactos", en: "Contacts" },
+  onlineInformation: { pt: "Informação Online", en: "Online Information" },
+  designation: { pt: "Designação", en: "Designation" },
+  webpage: { pt: "Página web", en: "Webpage" },
 
   // Groups
   international: { pt: "Internacional", en: "International" },
