@@ -1,0 +1,338 @@
+[
+  {
+    "title": "FiT4FoF — Making our Workforce Fit for the Factory of the Future",
+    "org": "EU Framework Programme for Research and Innovation (H2020)",
+    "start": "2018-10",
+    "end": "2021-09",
+    "type": "contract",
+    "grant": "EU H2020 FoF-01-2018",
+    "url": "https://cordis.europa.eu/project/id/820701",
+    "scope": "international",
+    "role": "participation",
+    "links": [
+      {
+        "kind": "doi",
+        "url": "https://doi.org/10.3030/820701"
+      },
+      {
+        "kind": "cordis",
+        "url": "https://cordis.europa.eu/project/id/820701/results"
+      },
+      {
+        "kind": "archive",
+        "url": "https://web.archive.org/web/20220128231957/https://www.fit4fof.eu/"
+      },
+      {
+        "kind": "other",
+        "url": "https://cedri.ipb.pt/communication/news/interview-of-paulo-leitao,-member-of-the-polytechnic-institute-of-braganca,-coordinator-of-cedri-and-member-of-the-fit4fof-project."
+      }
+    ]
+  },
+  {
+    "title": "High-Performance Computing for Enhanced Virtual Power Plant Efficiency",
+    "org": "Fundação para a Ciência e a Tecnologia",
+    "start": "2024-07-01",
+    "end": "2025-06-30",
+    "type": "contract",
+    "grant": "2024.00036.CPCA.A1",
+    "url": "https://doi.org/10.54499/2024.00036.CPCA.A1",
+    "scope": "national",
+    "role": "coordination",
+    "links": [
+      {
+        "kind": "project",
+        "url": "https://www.fct.pt/en/financiamento/programas-de-financiamento/computacao/concursos-de-projetos-de-computacao-avancada/"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.dtx-colab.pt/en/comunication/symposium-on-computational-intelligence/"
+      }
+    ]
+  },
+  {
+    "title": "OpTIMAL NGS — New Generation Storage Towards a Sustainable Energy System",
+    "org": "Fundação para a Ciência e a Tecnologia",
+    "start": "2023-06-01",
+    "end": "2023-11-30",
+    "type": "contract",
+    "grant": "2022.42626.CPCA.A0",
+    "url": "https://doi.org/10.54499/2022.42626.CPCA.A0",
+    "scope": "national",
+    "role": "coordination",
+    "links": [
+      {
+        "kind": "project",
+        "url": "https://www.fct.pt/en/financiamento/programas-de-financiamento/computacao/concursos-de-projetos-de-computacao-avancada/"
+      },
+      {
+        "kind": "project",
+        "url": "https://www.dtx-colab.pt/en/projects/#1698675905869-272cbfdf-1f5c"
+      }
+    ]
+  },
+  {
+    "title": "PERFoRM — Production harmonizEd Reconfiguration of Flexible Robots and Machinery",
+    "org": "EU Framework Programme for Research and Innovation",
+    "start": "2015-09",
+    "end": "2018-09",
+    "type": "contract",
+    "grant": "H2020-FoF-11-2015-680435",
+    "url": "https://cordis.europa.eu/project/id/680435",
+    "scope": "international",
+    "role": "participation",
+    "links": [
+      {
+        "kind": "doi",
+        "url": "https://doi.org/10.3030/680435"
+      },
+      {
+        "kind": "cordis",
+        "url": "https://cordis.europa.eu/project/id/680435/results"
+      },
+      {
+        "kind": "archive",
+        "url": "https://web.archive.org/web/20180927221254/http://www.horizon2020-perform.eu/"
+      }
+    ]
+  },
+  {
+    "title": "GRACE — Integration of Process and Quality Control Using Multi-agent Technology",
+    "org": "European Commission — Seventh Framework Programme (FP7)",
+    "start": "2010-01",
+    "end": "2013",
+    "type": "contract",
+    "grant": "FP7-NMPP2-SA-2009-246203",
+    "url": "https://cordis.europa.eu/project/id/246203",
+    "scope": "international",
+    "role": "participation",
+    "links": [
+      {
+        "kind": "cordis",
+        "url": "https://cordis.europa.eu/project/id/246203/reporting"
+      },
+      {
+        "kind": "archive",
+        "url": "https://web.archive.org/web/20130603101550/http://grace-project.org/"
+      }
+    ]
+  },
+  {
+    "title": "MARIA — TV Recommendation System for NOS (TRL 7)",
+    "org": "ANI",
+    "start": "2019",
+    "end": "2020",
+    "type": "salary-award",
+    "grant": "PRR — Investment RE-C05-i02: Interface Mission — CoLAB",
+    "url": "https://www.dtx-colab.pt/en/projects/#1554731331348-adf5acdb-f1df",
+    "scope": "national",
+    "role": "coordination",
+    "links": [
+      {
+        "kind": "other",
+        "url": "https://www.nos.pt/"
+      }
+    ]
+  },
+  {
+    "title": "e-Sardine — Fraud detection and management, with WeDo, NOS and ebankIT (TRL 6)",
+    "org": "ANI",
+    "start": "2019",
+    "end": "2021",
+    "type": "salary-award",
+    "grant": "PRR — Investment RE-C05-i02: Interface Mission — CoLAB",
+    "scope": "national",
+    "role": "coordination",
+    "url": "https://www.dtx-colab.pt/en/projects/#1554731088437-b99e6ccb-240b",
+    "links": [
+      {
+        "kind": "other",
+        "url": "https://www.mobileum.com/"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.nos.pt/"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.ebankit.com/"
+      }
+    ]
+  },
+  {
+    "title": "Smart Weighing — Traceability and weighing fraud detection (TRL 6)",
+    "org": "ANI",
+    "start": "2021",
+    "type": "salary-award",
+    "grant": "PRR — Investment RE-C05-i02: Interface Mission — CoLAB",
+    "scope": "national",
+    "role": "coordination",
+    "url": "https://www.dtx-colab.pt/en/projects/#1554299407080-6ec7003c-8179",
+    "links": [
+      {
+        "kind": "project",
+        "url": "https://www.dtx-colab.pt/en/projects/#1689930928347-533da938-6f76"
+      },
+      {
+        "kind": "project",
+        "url": "https://ani.pt/en/interface-mission/"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.cachapuz.com/"
+      }
+    ]
+  },
+  {
+    "title": "iDashboard — Embraer (TRL 7)",
+    "org": "ANI",
+    "start": "2024",
+    "end": "2024",
+    "type": "salary-award",
+    "grant": "PRR — Investment RE-C05-i02: Interface Mission — CoLAB",
+    "scope": "national",
+    "role": "coordination",
+    "links": [
+      {
+        "kind": "project",
+        "url": "https://www.dtx-colab.pt/en/projects/#1689930928347-533da938-6f76"
+      },
+      {
+        "kind": "project",
+        "url": "https://ani.pt/en/interface-mission/"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.embraer.com/"
+      }
+    ]
+  },
+  {
+    "title": "SkyCrafter — Aernnova, Automated Machine Scheduling System (TRL 7)",
+    "org": "ANI",
+    "start": "2024",
+    "end": "2034",
+    "type": "salary-award",
+    "grant": "PRR — Investment RE-C05-i02: Interface Mission — CoLAB",
+    "scope": "national",
+    "role": "coordination",
+    "links": [
+      {
+        "kind": "project",
+        "url": "https://www.dtx-colab.pt/en/projects/#1689930928347-533da938-6f76"
+      },
+      {
+        "kind": "project",
+        "url": "https://ani.pt/en/interface-mission/"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.aernnova.com/"
+      }
+    ]
+  },
+  {
+    "title": "IIoT — Celoplás Cooling System (TRL 6)",
+    "org": "ANI",
+    "start": "2025",
+    "end": "2025",
+    "type": "salary-award",
+    "grant": "PRR — Investment RE-C05-i02: Interface Mission — CoLAB",
+    "scope": "national",
+    "role": "coordination",
+    "links": [
+      {
+        "kind": "project",
+        "url": "https://www.dtx-colab.pt/en/projects/#1689930928347-533da938-6f76"
+      },
+      {
+        "kind": "project",
+        "url": "https://ani.pt/en/interface-mission/"
+      },
+      {
+        "kind": "other",
+        "url": "https://celoplas.pt/"
+      }
+    ]
+  },
+  {
+    "title": "Connect 5 — Digital Innovation Hub",
+    "org": "ANI",
+    "start": "2022",
+    "end": "2025",
+    "type": "contract",
+    "url": "https://connect5.pt/",
+    "scope": "national",
+    "role": "participation",
+    "links": [
+      {
+        "kind": "project",
+        "url": "https://www.dtx-colab.pt/en/projects/#1715609761379-f8b3e4d0-114a"
+      },
+      {
+        "kind": "project",
+        "url": "https://www.dtx-colab.pt/wp-content/uploads/2026/06/CONNECT5_FichaProjeto.pdf"
+      },
+      {
+        "kind": "project",
+        "url": "https://european-digital-innovation-hubs.ec.europa.eu/edih-catalogue/connect5"
+      },
+      {
+        "kind": "project",
+        "url": "https://tice.pt/en/projects-and-studies/connect5"
+      }
+    ]
+  },
+  {
+    "title": "AzDIH — Azores Digital Innovation Hub",
+    "org": "ANI",
+    "start": "2023-02",
+    "end": "2025-06",
+    "type": "contract",
+    "grant": "TD-C16-I03 — Digital Innovation Hubs",
+    "url": "https://european-digital-innovation-hubs.ec.europa.eu/edih-catalogue/azoresdih",
+    "scope": "national",
+    "role": "participation",
+    "links": [
+      {
+        "kind": "project",
+        "url": "https://www.dtx-colab.pt/en/projects/#1698675967855-5a6af3bf-9bb4"
+      },
+      {
+        "kind": "project",
+        "url": "https://www.dtx-colab.pt/wp-content/uploads/2023/10/AzDIH-EN.pdf"
+      },
+      {
+        "kind": "project",
+        "url": "https://nonagon.pt/en/dih-en/"
+      },
+      {
+        "kind": "archive",
+        "url": "https://web.archive.org/web/20250109071407/https://azoresdih.pt/"
+      }
+    ]
+  },
+  {
+    "title": "R2UTechnologies — modular system (TRL 5–7)",
+    "org": "ANI",
+    "start": "2022-01",
+    "end": "2026-06",
+    "type": "contract",
+    "url": "https://r2utechnologies.pt/",
+    "scope": "national",
+    "role": "coordination",
+    "links": [
+      {
+        "kind": "project",
+        "url": "https://www.dtx-colab.pt/en/projects/#1698675938876-b6afdbf3-b9f3"
+      },
+      {
+        "kind": "project",
+        "url": "https://www.dtx-colab.pt/wp-content/uploads/2026/02/Ficha-Projeto_R2UT-2026.pdf"
+      },
+      {
+        "kind": "project",
+        "url": "https://r2utechnologies.pt/consorcio/"
+      }
+    ]
+  }
+]

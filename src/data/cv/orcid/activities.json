@@ -1,0 +1,159 @@
+[
+  {
+    "org": "Fundação para a Ciência e a Tecnologia",
+    "location": "Lisboa, PT",
+    "start": "2019-06",
+    "role": "Innovation Award, Technology Industry 4.0 (4 k€)",
+    "url": "https://web.archive.org/web/20190830191040/http://i40tmad.ipb.pt/index.php/pt/eventos/premios-regional-de-inovacao",
+    "kind": "distinction",
+    "links": [
+      {
+        "kind": "project",
+        "url": "https://pages.unipb.pt/~jbarbosa/project/i40tmad/"
+      },
+      {
+        "kind": "project",
+        "url": "https://site.ipv.pt/pi/NORTE-01-0246-FEDER-000025.htm"
+      },
+      {
+        "kind": "archive",
+        "url": "https://web.archive.org/web/20190830191047/http://i40tmad.ipb.pt/index.php/pt/eventos/seminario-final"
+      },
+      {
+        "kind": "archive",
+        "url": "https://web.archive.org/web/20190830193946/http://i40tmad.ipb.pt/images/premio_regional/Regulamento_do_Prmio_de_Inovao_Tecnolgica.pdf"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.brigantia-ecopark.pt/"
+      }
+    ]
+  },
+  {
+    "org": "IEEE",
+    "location": "New York, NY, US",
+    "start": "2017-01-01",
+    "role": "Member, Technical Committee on Industrial Agents",
+    "url": "https://tcia.ieee-ies.org/",
+    "kind": "membership",
+    "links": [
+      {
+        "kind": "other",
+        "url": "https://www.ieee-ies.org/techcoms"
+      }
+    ]
+  },
+  {
+    "org": "IEEE Computer Society",
+    "location": "Washington, DC, US",
+    "start": "2024",
+    "role": "Member",
+    "kind": "membership",
+    "url": "https://www.computer.org/",
+    "links": [
+      {
+        "kind": "other",
+        "url": "https://www.computer.org/membership"
+      }
+    ]
+  },
+  {
+    "org": "Instituto Superior da Maia",
+    "location": "Maia, Porto, PT",
+    "start": "2019",
+    "role": "Professor Auxiliar Convidado",
+    "department": "Computer Systems",
+    "url": "https://www.umaia.pt/en",
+    "kind": "invited-position",
+    "links": [
+      {
+        "kind": "other",
+        "url": "https://www.umaia.pt/pt/universidade/corpo-docente/nelson-ricardo-martins-rodrigues"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.umaia.pt/pt/departamentos/departamento-ciencias-comunicacao-tecnologias-informacao"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.umaia.pt/en/courses/bachelors-degree/computer-science"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.umaia.pt/en/courses/masters-degree/computer-science"
+      }
+    ]
+  },
+  {
+    "org": "CeDRI — Research Centre in Digitalization and Intelligent Robotics",
+    "location": "Bragança, PT",
+    "start": "2018",
+    "end": "2020",
+    "role": "Integrated Member",
+    "url": "https://cedri.ipb.pt/",
+    "kind": "membership",
+    "links": [
+      {
+        "kind": "other",
+        "url": "https://cedri.ipb.pt/people/alumni/nelson-rodrigues"
+      }
+    ]
+  },
+  {
+    "org": "Universidade Católica Portuguesa — Braga",
+    "location": "Braga, PT",
+    "start": "2023",
+    "role": "Professor Auxiliar Convidado",
+    "department": "Data Science",
+    "url": "https://braga.ucp.pt/",
+    "kind": "invited-position",
+    "links": [
+      {
+        "kind": "archive",
+        "url": "https://web.archive.org/web/20260212135811/https://ffcs.braga.ucp.pt/pt-pt/pessoa/nelson-ricardo-martins-rodrigues-0?change-language=1"
+      },
+      {
+        "kind": "other",
+        "url": "https://ffcs.braga.ucp.pt/pt-pt/licenciaturas/programas/licenciatura-em-ciencia-de-dados-aplicada"
+      },
+      {
+        "kind": "other",
+        "url": "https://ffcs.braga.ucp.pt/pt-pt/pessoa/nelson-ricardo-martins-rodrigues-0"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.ucp.pt/news/catolica-launches-new-degree-applied-data-science"
+      }
+    ]
+  },
+  {
+    "org": "LIACC — Universidade do Porto",
+    "location": "Porto, PT",
+    "start": "2018-01",
+    "end": "2021",
+    "role": "Collaborator Member",
+    "url": "https://liacc.fe.up.pt/",
+    "kind": "membership",
+    "links": [
+      {
+        "kind": "other",
+        "url": "https://liacc.fe.up.pt/member/nrr"
+      }
+    ]
+  },
+  {
+    "org": "LIACC — Universidade do Porto",
+    "location": "Porto, PT",
+    "start": "2012",
+    "end": "2018-01",
+    "role": "Integrated Member",
+    "kind": "membership",
+    "url": "https://liacc.fe.up.pt/",
+    "links": [
+      {
+        "kind": "other",
+        "url": "https://liacc.fe.up.pt/member/nrr"
+      }
+    ]
+  }
+]

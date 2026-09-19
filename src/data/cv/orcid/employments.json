@@ -1,0 +1,180 @@
+[
+  {
+    "org": "DTx — Digital Transformation CoLAB",
+    "location": "Guimarães, Braga, PT",
+    "start": "2025",
+    "role": "Principal Investigator",
+    "url": "https://www.dtx-colab.pt/",
+    "links": [
+      {
+        "kind": "other",
+        "url": "https://www.dtx-colab.pt/en/dtx-about-us/"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.dtx-colab.pt/en/dtx-what-we-do/"
+      }
+    ]
+  },
+  {
+    "org": "Universidade Católica Portuguesa — Braga",
+    "location": "Braga, PT",
+    "start": "2022",
+    "role": "Professor Auxiliar Convidado",
+    "department": "Data Science",
+    "url": "https://braga.ucp.pt/",
+    "links": [
+      {
+        "kind": "archive",
+        "url": "https://web.archive.org/web/20260308203625/https://ffcs.braga.ucp.pt/pt-pt/licenciaturas/programas/licenciatura-em-ciencia-de-dados-aplicada"
+      },
+      {
+        "kind": "archive",
+        "url": "https://web.archive.org/web/20260212135811/https://ffcs.braga.ucp.pt/pt-pt/pessoa/nelson-ricardo-martins-rodrigues-0?change-language=1"
+      },
+      {
+        "kind": "other",
+        "url": "https://ffcs.braga.ucp.pt/pt-pt/licenciaturas/programas/licenciatura-em-ciencia-de-dados-aplicada"
+      },
+      {
+        "kind": "other",
+        "url": "https://ffcs.braga.ucp.pt/pt-pt/undergraduate-courses/programs/degree-applied-data-science/corpo-docente"
+      },
+      {
+        "kind": "other",
+        "url": "https://ffcs.braga.ucp.pt/pt-pt/pessoa/nelson-ricardo-martins-rodrigues-0"
+      },
+      {
+        "kind": "other",
+        "url": "https://ffcs.braga.ucp.pt/pt-pt/iccd"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.ucp.pt/news/catolica-launches-new-degree-applied-data-science"
+      }
+    ]
+  },
+  {
+    "org": "Universidade da Maia",
+    "location": "Castelo da Maia, Porto, PT",
+    "start": "2020",
+    "role": "Professor Auxiliar Convidado",
+    "url": "https://www.umaia.pt/en",
+    "links": [
+      {
+        "kind": "other",
+        "url": "https://www.umaia.pt/pt/universidade/corpo-docente/nelson-ricardo-martins-rodrigues"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.umaia.pt/pt/departamentos/departamento-ciencias-comunicacao-tecnologias-informacao"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.umaia.pt/en/courses/bachelors-degree/computer-science"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.umaia.pt/pt/ensino/oferta-formativa/licenciaturas/informatica"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.umaia.pt/pt/ensino/oferta-formativa/mestrados/informatica"
+      }
+    ]
+  },
+  {
+    "org": "DTx — Digital Transformation CoLAB",
+    "location": "Guimarães, Braga, PT",
+    "start": "2021",
+    "end": "2025",
+    "role": "Coordinator, Data and Application Engineering (DAE)",
+    "department": "Computer Systems",
+    "url": "https://www.dtx-colab.pt/",
+    "links": [
+      {
+        "kind": "other",
+        "url": "https://www.dtx-colab.pt/en/dtx-what-we-do/"
+      }
+    ]
+  },
+  {
+    "org": "DTx — Digital Transformation CoLAB",
+    "location": "Guimarães, PT",
+    "start": "2020-03",
+    "end": "2021",
+    "role": "Investigador Auxiliar (carreira)",
+    "url": "https://www.dtx-colab.pt/en/homepage-en/",
+    "links": [
+      {
+        "kind": "other",
+        "url": "https://www.dtx-colab.pt/en/dtx-about-us/"
+      }
+    ]
+  },
+  {
+    "org": "Instituto Politécnico de Bragança",
+    "location": "Bragança, PT",
+    "start": "2018",
+    "end": "2020-02",
+    "role": "Professor Assistente Convidado",
+    "department": "Informatics",
+    "url": "https://unipb.pt/",
+    "links": [
+      {
+        "kind": "other",
+        "url": "https://estig.unipb.pt/"
+      },
+      {
+        "kind": "other",
+        "url": "https://estig.unipb.pt/a-estig/departamentos/dep/48/"
+      }
+    ]
+  },
+  {
+    "org": "CeDRI — Research Centre in Digitalization and Intelligent Robotics",
+    "location": "Bragança, PT",
+    "start": "2017",
+    "end": "2020-02",
+    "role": "Researcher in Intelligent and Reconfigurable Systems",
+    "url": "https://cedri.ipb.pt/",
+    "links": [
+      {
+        "kind": "other",
+        "url": "https://cedri.ipb.pt/people/alumni/nelson-rodrigues"
+      }
+    ]
+  },
+  {
+    "org": "Instituto Politécnico de Bragança",
+    "location": "Bragança, PT",
+    "start": "2010",
+    "end": "2017",
+    "role": "Researcher in Intelligent and Distributed Systems",
+    "url": "https://unipb.pt/",
+    "links": [
+      {
+        "kind": "other",
+        "url": "https://estig.unipb.pt/"
+      },
+      {
+        "kind": "other",
+        "url": "https://estig.unipb.pt/a-estig/departamentos/dep/48/"
+      }
+    ]
+  },
+  {
+    "org": "Microsoft Portugal",
+    "location": "Lisboa, PT",
+    "start": "2009",
+    "end": "2010",
+    "role": "Microsoft Student Partner",
+    "url": "https://www.microsoft.com/pt-pt",
+    "links": [
+      {
+        "kind": "project",
+        "url": "https://mvp.microsoft.com/studentambassadors"
+      }
+    ]
+  }
+]

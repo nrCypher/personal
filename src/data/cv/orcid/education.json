@@ -1,0 +1,90 @@
+[
+  {
+    "org": "Universidade do Porto — Faculdade de Engenharia",
+    "location": "Porto, PT",
+    "start": "2013",
+    "end": "2019-12",
+    "role": "PhD in Informatics Engineering",
+    "department": "Doctoral Programme in Informatics Engineering",
+    "kind": "education",
+    "url": "https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=679",
+    "links": [
+      {
+        "kind": "doi",
+        "url": "https://doi.org/10.34626/39nq-9r15"
+      },
+      {
+        "kind": "repository",
+        "url": "https://hdl.handle.net/10216/125113"
+      },
+      {
+        "kind": "repository",
+        "url": "https://repositorio-aberto.up.pt/bitstream/10216/125113/2/372909.pdf"
+      },
+      {
+        "kind": "other",
+        "url": "https://www.up.pt/feup/en/"
+      },
+      {
+        "kind": "other",
+        "url": "https://fe.up.pt/estudar/cursos/programa-doutoral-engenharia-informatica/"
+      }
+    ]
+  },
+  {
+    "org": "Instituto Politécnico de Bragança — ESTiG",
+    "location": "Bragança, PT",
+    "start": "2011",
+    "end": "2013",
+    "role": "MSc in Information Systems (Semantic Web, Machine Learning, Expert Systems)",
+    "kind": "education",
+    "url": "https://estig.unipb.pt/",
+    "links": [
+      {
+        "kind": "repository",
+        "url": "http://hdl.handle.net/10198/7945"
+      },
+      {
+        "kind": "repository",
+        "url": "https://bibliotecadigital.unipb.pt/bitstreams/cedb46ef-26cc-4f0f-bc2a-8e7c54632317/download"
+      },
+      {
+        "kind": "other",
+        "url": "https://estig.unipb.pt/estudar/cursos/mestrados/course/5060/"
+      }
+    ]
+  },
+  {
+    "org": "Instituto Politécnico de Bragança — ESTiG",
+    "location": "Bragança, PT",
+    "end": "2012",
+    "role": "BSc in Informatics Engineering",
+    "kind": "education",
+    "url": "https://estig.unipb.pt/",
+    "links": [
+      {
+        "kind": "other",
+        "url": "https://estig.unipb.pt/estudar/cursos/licenciaturas/course/9119/"
+      },
+      {
+        "kind": "other",
+        "url": "https://estig.unipb.pt/a-estig/departamentos/dep/48/"
+      }
+    ]
+  },
+  {
+    "org": "TecMinho — Associação Universidade-Empresa para o Desenvolvimento",
+    "location": "Guimarães, Braga, PT",
+    "start": "2020-05-30",
+    "end": "2020-07-25",
+    "role": "Project Management",
+    "kind": "qualification",
+    "url": "https://www.tecminho.uminho.pt/",
+    "links": [
+      {
+        "kind": "other",
+        "url": "https://www.tecminho.uminho.pt/formar"
+      }
+    ]
+  }
+]

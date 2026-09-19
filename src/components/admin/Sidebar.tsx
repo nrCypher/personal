@@ -11,6 +11,7 @@ const ADMIN_NAV = [
   { href: "/admin/patents", label: "Patents" },
   { href: "/admin/projects", label: "Projects" },
   { href: "/admin/students", label: "Students" },
+  { href: "/admin/cv-documents", label: "CV Documents" },
 ];
 
 export default function Sidebar() {

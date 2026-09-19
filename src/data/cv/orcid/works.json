@@ -1,0 +1,1368 @@
+[
+  {
+    "title": "Anomaly detection in aggregates of grouped time series, composed of high-dimensional and high-frequency event sequences",
+    "year": "2026",
+    "type": "preprint",
+    "url": "https://doi.org/10.2139/ssrn.6206936",
+    "doi": "10.2139/ssrn.6206936",
+    "authors": [
+      "Nuno Miguel Cerqueira da Costa",
+      "Armindo Lobo",
+      "Suelma Romina Semedo Pina",
+      "Francisco J. G. Franco",
+      "Andrew Humphrey",
+      "Ali Abbasi",
+      "Ricardo Rodrigues",
+      "Duarte Fernandes",
+      "Negin Mehrbod",
+      "Miguel Alves",
+      "Emanuel D. Mendes Gouveia"
+    ],
+    "links": [
+      {
+        "kind": "free",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6206936"
+      }
+    ]
+  },
+  {
+    "title": "D-Wave Quantum Solutions for Social Welfare Optimization in Electricity Markets: A Dual Formulation with Environmental Constraints",
+    "year": "2026",
+    "type": "book-chapter",
+    "url": "https://doi.org/10.1007/978-3-031-98997-1_63",
+    "doi": "10.1007/978-3-031-98997-1_63",
+    "authors": [
+      "Ali Abbasi",
+      "Jean Gomes",
+      "Filipe Alves",
+      "João Luis Sobral",
+      "Ricardo Rodrigues"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-98997-1_63"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://link.springer.com/book/10.1007/978-3-031-98997-1"
+      }
+    ]
+  },
+  {
+    "title": "From Synthetic Data to Real-World Efficiency: Automated Vehicle Damage Detection and Vehicle Parts Segmentation",
+    "year": "2026",
+    "type": "journal-article",
+    "venue": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3653645",
+    "doi": "10.1109/access.2026.3653645",
+    "scope": "international",
+    "authors": [
+      "Cátia Loureiro",
+      "Sandra Dixe",
+      "Cristiana Neto",
+      "António Linhares Silva",
+      "Beatriz Miranda",
+      "Ricardo Rodrigues",
+      "Nuno M. C. da Costa",
+      "Carlos Ferreira",
+      "Hugo Peixoto",
+      "José Machado",
+      "Duarte Fernandes"
+    ],
+    "file": "2026-from-synthetic-data-real-world-efficiency.pdf",
+    "links": [
+      {
+        "kind": "doi",
+        "url": "https://doi.org/10.36227/techrxiv.176300506.66525426/v1"
+      },
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/11346931"
+      },
+      {
+        "kind": "repository",
+        "url": "https://hdl.handle.net/1822/103562"
+      }
+    ]
+  },
+  {
+    "title": "Optimizing Social Welfare in Electricity Markets Through Advanced Hyperparameter Tuning of Evolutionary Algorithms: GA, NSGA, and Differential Evolution",
+    "year": "2026",
+    "type": "book-chapter",
+    "url": "https://doi.org/10.1007/978-3-031-98997-1_65",
+    "doi": "10.1007/978-3-031-98997-1_65",
+    "authors": [
+      "Ali Abbasi",
+      "Jean Gomes",
+      "Filipe Alves",
+      "João Luis Sobral",
+      "Ricardo Rodrigues"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-98997-1_65"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://link.springer.com/book/10.1007/978-3-031-98997-1"
+      }
+    ]
+  },
+  {
+    "title": "Graph-Based Approach for HetNets Network Coverage Planning and Optimisation",
+    "year": "2025-12-14",
+    "type": "conference-paper",
+    "venue": "2025 Computing, Communications and IoT Applications (ComComAp)",
+    "url": "https://doi.org/10.1109/comcomap68359.2025.11353187",
+    "doi": "10.1109/comcomap68359.2025.11353187",
+    "authors": [
+      "Jean Gomes",
+      "Vinicius Ferreira",
+      "Ricardo Rodrigues",
+      "Maria João Nicolau",
+      "Tiago Sousa",
+      "Maria Petiz",
+      "António Costa"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/11353187/"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/1800866/all-proceedings"
+      },
+      {
+        "kind": "other",
+        "url": "https://comcomap.net/2025/program-details.php"
+      }
+    ]
+  },
+  {
+    "title": "Multi-Technology Connectivity Architecture for Urban Mobility",
+    "year": "2025-12-14",
+    "type": "conference-paper",
+    "venue": "2025 Computing, Communications and IoT Applications (ComComAp)",
+    "url": "https://doi.org/10.1109/comcomap68359.2025.11353196",
+    "doi": "10.1109/comcomap68359.2025.11353196",
+    "authors": [
+      "Tiago Sousa",
+      "Vinicius Ferreira",
+      "Jean Gomes",
+      "Ricardo Rodrigues",
+      "Maria João Nicolau",
+      "Maria Petiz",
+      "António Costa"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/11353196/"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/1800866/all-proceedings"
+      },
+      {
+        "kind": "other",
+        "url": "https://comcomap.net/2025/program-details.php"
+      }
+    ]
+  },
+  {
+    "title": "AI-Driven Virtual Power Plant Scheduling: CUDA-Accelerated Parallel Simulated Annealing Approach",
+    "year": "2025-11-13",
+    "type": "journal-article",
+    "venue": "Smart Cities",
+    "url": "https://doi.org/10.3390/smartcities8060192",
+    "doi": "10.3390/smartcities8060192",
+    "authors": [
+      "Ali Abbasi",
+      "João L. Sobral",
+      "Ricardo Rodrigues"
+    ],
+    "file": "2025-ai-driven-virtual-power-plant-scheduling.pdf",
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://www.mdpi.com/2624-6511/8/6/192"
+      },
+      {
+        "kind": "publisher",
+        "url": "https://mdpi-res.com/d_attachment/smartcities/smartcities-08-00192/article_deploy/smartcities-08-00192.pdf"
+      }
+    ]
+  },
+  {
+    "title": "SYNDCAR: Synthetic Vehicle Damage Detection and Parts Segmentation Dataset",
+    "year": "2025-10-31",
+    "type": "data-set",
+    "url": "https://data.mendeley.com/datasets/hzpj48krdt/1",
+    "doi": "10.17632/HZPJ48KRDT.1",
+    "authors": [
+      "Cátia Loureiro",
+      "Sandra Dixe",
+      "Cristiana Neto",
+      "António Silva",
+      "Beatriz Miranda",
+      "Ricardo Rodrigues",
+      "Nuno Costa",
+      "Diana Ferreira",
+      "Carlos Ferreira",
+      "José Machado",
+      "Duarte Fernandes"
+    ],
+    "links": [
+      {
+        "kind": "doi",
+        "url": "https://doi.org/10.17632/hzpj48krdt.1"
+      },
+      {
+        "kind": "doi",
+        "url": "https://doi.org/10.17632/hzpj48krdt"
+      },
+      {
+        "kind": "doi",
+        "url": "https://doi.org/10.1109/ACCESS.2026.3653645"
+      },
+      {
+        "kind": "free",
+        "url": "https://data.mendeley.com/datasets/hzpj48krdt/1"
+      }
+    ]
+  },
+  {
+    "title": "SentinelCAR Dataset",
+    "year": "2025-10-30",
+    "type": "data-set",
+    "url": "https://data.mendeley.com/datasets/9d96592r58/1",
+    "doi": "10.17632/9D96592R58.1",
+    "authors": [
+      "Sandra Dixe",
+      "Cátia Loureiro",
+      "Beatriz Miranda",
+      "António Silva",
+      "Luís de Azevedo Cura",
+      "Nuno M. C. da Costa",
+      "Ricardo Rodrigues",
+      "Diana Ferreira",
+      "Hugo Peixoto",
+      "José Machado",
+      "Duarte Fernandes"
+    ],
+    "links": [
+      {
+        "kind": "doi",
+        "url": "https://doi.org/10.17632/9d96592r58.1"
+      },
+      {
+        "kind": "doi",
+        "url": "https://doi.org/10.1109/access.2026.3678484"
+      },
+      {
+        "kind": "doi",
+        "url": "https://doi.org/10.36227/techrxiv.176300452.22973122/v1"
+      },
+      {
+        "kind": "free",
+        "url": "https://data.mendeley.com/datasets/9d96592r58/1"
+      },
+      {
+        "kind": "other",
+        "url": "https://hdl.handle.net/1822/103517"
+      }
+    ]
+  },
+  {
+    "title": "Benchmarking Commercial MILP Solvers: Insights on Parallelism for the N-Queens Problem",
+    "year": "2025-05-12",
+    "type": "conference-paper",
+    "venue": "2025 IEEE 8th International Conference on Industrial Cyber-Physical Systems (ICPS)",
+    "url": "https://doi.org/10.1109/icps65515.2025.11087905",
+    "doi": "10.1109/icps65515.2025.11087905",
+    "authors": [
+      "Ali Abbasi",
+      "Rui A. Ribeiro",
+      "João L. Sobral",
+      "Ricardo Rodrigues"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/11087905"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/11087818/proceeding"
+      }
+    ]
+  },
+  {
+    "title": "Optimizing Virtual Power Plants with Parallel Simulated Annealing on High-Performance Computing",
+    "year": "2025-03-12",
+    "type": "journal-article",
+    "venue": "Smart Cities",
+    "url": "https://doi.org/10.3390/smartcities8020047",
+    "doi": "10.3390/smartcities8020047",
+    "authors": [
+      "Ali Abbasi",
+      "Filipe Alves",
+      "Rui A. Ribeiro",
+      "João L. Sobral",
+      "Ricardo Rodrigues"
+    ],
+    "file": "2025-optimizing-virtual-power-plants-parallel-simulated.pdf",
+    "links": [
+      {
+        "kind": "doi",
+        "url": "https://doi.org/10.20944/preprints202412.2186.v1"
+      },
+      {
+        "kind": "publisher",
+        "url": "https://www.mdpi.com/2624-6511/8/2/47"
+      },
+      {
+        "kind": "publisher",
+        "url": "https://www.mdpi.com/2624-6511/8/2/47/pdf"
+      }
+    ]
+  },
+  {
+    "title": "Big Data Processing",
+    "year": "2025",
+    "type": "lecture-speech",
+    "venue": "Universidade Católica Portuguesa",
+    "meta": "2024/2025",
+    "url": "https://www.ucp.pt/pt-pt/homepage"
+  },
+  {
+    "title": "Business Intelligence",
+    "year": "2025",
+    "type": "lecture-speech",
+    "venue": "Universidade Católica Portuguesa",
+    "meta": "2024/2025",
+    "url": "https://www.ucp.pt/pt-pt/homepage"
+  },
+  {
+    "title": "Multi-agent Systems",
+    "year": "2025",
+    "type": "lecture-speech",
+    "venue": "Universidade da Maia",
+    "meta": "2025"
+  },
+  {
+    "title": "An N-Queens Benchmark Using MILP Solvers: Comparison Between Open-Source Optimization Tools",
+    "year": "2024",
+    "type": "book-chapter",
+    "url": "https://doi.org/10.1007/978-3-031-77432-4_7",
+    "doi": "10.1007/978-3-031-77432-4_7",
+    "authors": [
+      "Filipe Alves",
+      "Maria Petiz",
+      "Rui Ribeiro",
+      "Ali Abbasi",
+      "Pedro Nicolau Carvalho",
+      "Ricardo Rodrigues"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-77432-4_7"
+      },
+      {
+        "kind": "repository",
+        "url": "https://hdl.handle.net/10198/36697"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://link.springer.com/book/10.1007/978-3-031-77432-4"
+      }
+    ]
+  },
+  {
+    "title": "Big Data Processing",
+    "year": "2024",
+    "type": "lecture-speech",
+    "venue": "Universidade Católica Portuguesa",
+    "meta": "2023/2024",
+    "url": "https://www.ucp.pt/pt-pt/homepage"
+  },
+  {
+    "title": "Business Intelligence",
+    "year": "2024",
+    "type": "lecture-speech",
+    "venue": "Universidade Católica Portuguesa",
+    "meta": "2023/2024",
+    "url": "https://www.ucp.pt/pt-pt/homepage"
+  },
+  {
+    "title": "Multi-agent Systems",
+    "year": "2024",
+    "type": "lecture-speech",
+    "venue": "Universidade da Maia",
+    "meta": "2024",
+    "url": "https://www.umaia.pt/en"
+  },
+  {
+    "title": "A 5G-based Authentication Framework for V2X Communication",
+    "year": "2023",
+    "type": "conference-paper",
+    "venue": "2023 IEEE Conference on Standards for Communications and Networking (CSCN)",
+    "url": "https://doi.org/10.1109/CSCN60443.2023.10453140",
+    "doi": "10.1109/CSCN60443.2023.10453140",
+    "authors": [
+      "Diana Magalhães",
+      "Vinicius C. Ferreira",
+      "Nelson Rodrigues",
+      "João M. Fernandes"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/10453140"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/10452895/proceeding"
+      },
+      {
+        "kind": "free",
+        "url": "https://hdl.handle.net/1822/89416"
+      }
+    ]
+  },
+  {
+    "title": "Distributed Systems",
+    "year": "2023",
+    "type": "lecture-speech",
+    "venue": "Universidade da Maia",
+    "meta": "2022/2023",
+    "url": "https://www.umaia.pt/en"
+  },
+  {
+    "title": "Intelligent Systems (Artificial Intelligence)",
+    "year": "2023",
+    "type": "lecture-speech",
+    "venue": "Universidade da Maia",
+    "meta": "2022/2023",
+    "url": "https://www.umaia.pt/en"
+  },
+  {
+    "title": "Object-Oriented Programming (OOP)",
+    "year": "2023",
+    "type": "lecture-speech",
+    "venue": "Universidade da Maia",
+    "meta": "2022/2023",
+    "url": "https://www.umaia.pt/en"
+  },
+  {
+    "title": "Business Analytical Framework for the Manufacturing Industry",
+    "year": "2021-07-21",
+    "type": "conference-paper",
+    "venue": "2021 IEEE 19th International Conference on Industrial Informatics (INDIN)",
+    "url": "https://doi.org/10.1109/indin45523.2021.9557370",
+    "doi": "10.1109/indin45523.2021.9557370",
+    "authors": [
+      "Emanuel Lima",
+      "Roy Bayot",
+      "Paulo Brito",
+      "Nelson Rodrigues",
+      "Bruno Ribeiro",
+      "Nuno Lopes"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/9557370"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/9557349/proceeding"
+      }
+    ]
+  },
+  {
+    "title": "Distributed Systems",
+    "year": "2021",
+    "type": "lecture-speech",
+    "venue": "Universidade da Maia",
+    "url": "https://www.umaia.pt/en"
+  },
+  {
+    "title": "New Performance Metrics for Offline Content-Based TV Recommender System",
+    "year": "2021",
+    "type": "book-chapter",
+    "venue": "Communications in Computer and Information Science",
+    "url": "https://doi.org/10.1007/978-3-030-78818-6_14",
+    "doi": "10.1007/978-3-030-78818-6_14",
+    "authors": [
+      "Luisa Simões",
+      "Vaibhav Shah",
+      "João Silva",
+      "Nelson Rodrigues",
+      "Nuno Leite",
+      "Nuno Lopes"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-030-78818-6_14"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://link.springer.com/book/10.1007/978-3-030-78818-6"
+      },
+      {
+        "kind": "other",
+        "url": "https://biasinrecsys.github.io/ecir2021/"
+      }
+    ]
+  },
+  {
+    "title": "Modular Data Acquisition Architecture for Thin-Film Sensors Surfaces",
+    "year": "2020-06",
+    "type": "conference-paper",
+    "venue": "2020 IEEE 29th International Symposium on Industrial Electronics (ISIE)",
+    "url": "https://doi.org/10.1109/isie45063.2020.9152518",
+    "doi": "10.1109/isie45063.2020.9152518",
+    "authors": [
+      "Nelson Rodrigues",
+      "José Lima",
+      "Pedro João Rodrigues",
+      "José Augusto Carvalho",
+      "Jorge Laranjeira",
+      "Wellington Maidana",
+      "Paulo Leitão"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/9152518"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/9145944/proceeding"
+      },
+      {
+        "kind": "free",
+        "url": "https://hdl.handle.net/10198/27426"
+      }
+    ]
+  },
+  {
+    "title": "Programming II",
+    "year": "2020",
+    "type": "lecture-speech",
+    "venue": "Instituto Politécnico de Bragança",
+    "meta": "2019/2020",
+    "url": "https://ipb.pt/"
+  },
+  {
+    "title": "A lightweight dynamic monitoring of operational indicators for a rapid strategical awareness",
+    "year": "2019",
+    "type": "conference-paper",
+    "venue": "2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS)",
+    "url": "https://doi.org/10.1109/ICPHYS.2019.8780228",
+    "doi": "10.1109/ICPHYS.2019.8780228",
+    "authors": [
+      "Paulo Leitão",
+      "Nelson Rodrigues",
+      "Adriano Ferreira",
+      "Arnaldo Pagani",
+      "Pierluigi Petrali",
+      "José Barbosa"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/8780228"
+      },
+      {
+        "kind": "repository",
+        "url": "https://bibliotecadigital.unipb.pt/handle/10198/21243"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/8767101/proceeding"
+      }
+    ]
+  },
+  {
+    "title": "Empowering humans in a cyber-physical production system: Human-in-the-loop perspective",
+    "year": "2019",
+    "type": "conference-paper",
+    "venue": "2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS)",
+    "url": "https://doi.org/10.1109/ICPHYS.2019.8780138",
+    "doi": "10.1109/ICPHYS.2019.8780138",
+    "authors": [
+      "David Costa",
+      "Flávia Pires",
+      "Nelson Rodrigues",
+      "José Barbosa",
+      "Getúlio Igrejas",
+      "Paulo Leitão"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/8780138"
+      },
+      {
+        "kind": "repository",
+        "url": "https://bibliotecadigital.unipb.pt/handle/10198/21026"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/8767101/proceeding"
+      }
+    ]
+  },
+  {
+    "title": "Informatics — Biomedical Technology",
+    "year": "2019",
+    "type": "lecture-speech",
+    "venue": "Instituto Politécnico de Bragança",
+    "meta": "2018/2019",
+    "url": "https://ipb.pt/pt"
+  },
+  {
+    "title": "Programming I — Electrical and Computers Engineering",
+    "year": "2019",
+    "type": "lecture-speech",
+    "venue": "Instituto Politécnico de Bragança",
+    "meta": "2018/2019"
+  },
+  {
+    "title": "Use Case: White Goods",
+    "year": "2019",
+    "type": "book-chapter",
+    "venue": "Digitalized and Harmonized Industrial Production Systems: The PERFoRM Approach",
+    "doi": "10.1201/9780429263316-11",
+    "authors": [
+      "Pierluigi Petrali",
+      "Arnaldo Pagani",
+      "Filippo Boschi",
+      "Giacomo Tavola",
+      "Paola Fantini",
+      "José Barbosa",
+      "Nelson Rodrigues",
+      "Adriano Ferreira",
+      "Giacomo Angione"
+    ],
+    "links": [
+      {
+        "kind": "doi",
+        "url": "https://doi.org/10.1201/9780429263316-11"
+      },
+      {
+        "kind": "doi",
+        "url": "https://doi.org/10.1201/9780429263316"
+      },
+      {
+        "kind": "publisher",
+        "url": "https://www.taylorfrancis.com/chapters/edit/10.1201/9780429263316-11/use-case-white-goods-pierluigi-petrali-arnaldo-pagani-filippo-boschi-giacomo-tavola-paola-fantini-jos%C3%A9-barbosa-nelson-rodrigues-adriano-ferreira-giacomo-angione"
+      },
+      {
+        "kind": "publisher",
+        "url": "https://www.routledge.com/Digitalized-and-Harmonized-Industrial-Production-Systems-The-PERFoRM-Approach/Colombo-Gepp-Oliveira-Leitao-Barbosa-Wermann/p/book/9780367206611"
+      },
+      {
+        "kind": "repository",
+        "url": "https://bibliotecadigital.unipb.pt/handle/10198/27727"
+      }
+    ]
+  },
+  {
+    "title": "Decentralized and on-the-fly agent-based service reconfiguration in manufacturing systems",
+    "year": "2018-10",
+    "type": "journal-article",
+    "venue": "Computers in Industry",
+    "url": "https://doi.org/10.1016/j.compind.2018.06.003",
+    "doi": "10.1016/j.compind.2018.06.003",
+    "authors": [
+      "Nelson Rodrigues",
+      "Eugénio Oliveira",
+      "Paulo Leitão"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0166361517306991"
+      },
+      {
+        "kind": "free",
+        "url": "https://bibliotecadigital.unipb.pt/handle/10198/16270"
+      }
+    ]
+  },
+  {
+    "title": "An agent-based approach for the dynamic and decentralized service reconfiguration in collaborative production scenarios",
+    "year": "2017",
+    "type": "conference-paper",
+    "venue": "Lecture Notes in Computer Science",
+    "url": "https://doi.org/10.1007/978-3-319-64635-0_11",
+    "doi": "10.1007/978-3-319-64635-0_11",
+    "authors": [
+      "Nelson Rodrigues",
+      "Paulo Leitão",
+      "Eugénio Oliveira"
+    ],
+    "file": "2017-agent-based-approach-dynamic-decentralized-service.pdf",
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-319-64635-0_11"
+      },
+      {
+        "kind": "repository",
+        "url": "http://hdl.handle.net/10198/16417"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://link.springer.com/book/10.1007/978-3-319-64635-0"
+      }
+    ]
+  },
+  {
+    "title": "Dynamic service reconfiguration with multi-agent systems",
+    "year": "2017",
+    "type": "book-chapter",
+    "venue": "Studies in Computational Intelligence",
+    "url": "https://doi.org/10.1007/978-3-319-51100-9_27",
+    "doi": "10.1007/978-3-319-51100-9_27",
+    "authors": [
+      "Nelson Rodrigues",
+      "Paulo Leitão",
+      "Eugénio Oliveira"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-319-51100-9_27"
+      },
+      {
+        "kind": "repository",
+        "url": "http://hdl.handle.net/10198/15562"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://link.springer.com/book/10.1007/978-3-319-51100-9"
+      }
+    ]
+  },
+  {
+    "title": "Determination of physico-chemical composition, nutritional facts and technological quality of organic orange and purple-fleshed sweet potatoes and its flours",
+    "year": "2016",
+    "type": "journal-article",
+    "venue": "International Food Research Journal",
+    "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84992028886&partnerID=MN8TOARS",
+    "authors": [
+      "N. da R. Rodrigues",
+      "J. L. Barbosa Junior",
+      "M. I. M. J. Barbosa"
+    ],
+    "hidden": "Not by N. R. Rodrigues: food-science paper by N. da R. Rodrigues (UFRRJ, Brazil), imported via a Scopus profile merge on initials."
+  },
+  {
+    "title": "Triggering strategies for automatic and online service reconfiguration",
+    "year": "2016",
+    "type": "conference-paper",
+    "venue": "Iberian Conference on Information Systems and Technologies (CISTI)",
+    "url": "https://doi.org/10.1109/CISTI.2016.7521639",
+    "doi": "10.1109/CISTI.2016.7521639",
+    "authors": [
+      "Nelson Rodrigues",
+      "Paulo Leitão",
+      "Eugénio Oliveira"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/7521639"
+      },
+      {
+        "kind": "repository",
+        "url": "http://hdl.handle.net/10198/13953"
+      },
+      {
+        "kind": "repository",
+        "url": "https://bibliotecadigital.unipb.pt/bitstreams/dbb2d0a8-18ef-4caf-ac2c-50ad1d9b23e5/download"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/7511893/proceeding"
+      }
+    ]
+  },
+  {
+    "title": "Intelligent products: The GRACE experience",
+    "year": "2015-09",
+    "type": "journal-article",
+    "venue": "Control Engineering Practice",
+    "url": "https://doi.org/10.1016/j.conengprac.2015.05.001",
+    "doi": "10.1016/j.conengprac.2015.05.001",
+    "authors": [
+      "Paulo Leitão",
+      "Nelson Rodrigues",
+      "José Barbosa",
+      "Claudio Turrin",
+      "Arnaldo Pagani"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://www.sciencedirect.com/science/article/pii/S096706611500091X"
+      },
+      {
+        "kind": "free",
+        "url": "https://bibliotecadigital.unipb.pt/handle/10198/13954"
+      }
+    ]
+  },
+  {
+    "title": "Adaptive services reconfiguration in manufacturing environments using a multi-agent system approach",
+    "year": "2015",
+    "type": "conference-paper",
+    "venue": "Lecture Notes in Computer Science",
+    "url": "https://doi.org/10.1007/978-3-319-27343-3_17",
+    "doi": "10.1007/978-3-319-27343-3_17",
+    "authors": [
+      "Nelson Rodrigues",
+      "Paulo Leitão",
+      "Eugénio Oliveira"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-319-27343-3_17"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://link.springer.com/book/10.1007/978-3-319-27343-3"
+      },
+      {
+        "kind": "free",
+        "url": "https://bibliotecadigital.unipb.pt/handle/10198/13956"
+      }
+    ]
+  },
+  {
+    "title": "Integration of an agent-based strategic planner in an enterprise service bus ecosystem",
+    "year": "2015",
+    "type": "conference-paper",
+    "venue": "2015 IEEE International Conference on Industrial Informatics (INDIN)",
+    "url": "https://doi.org/10.1109/INDIN.2015.7281929",
+    "doi": "10.1109/INDIN.2015.7281929",
+    "authors": [
+      "Adriano Ferreira",
+      "Arnaldo Pereira",
+      "Nelson Rodrigues",
+      "José Barbosa",
+      "Paulo Leitão"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/7281929"
+      },
+      {
+        "kind": "repository",
+        "url": "https://bibliotecadigital.unipb.pt/handle/10198/13883"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/7270516/proceeding"
+      },
+      {
+        "kind": "cordis",
+        "url": "https://cordis.europa.eu/project/id/314056"
+      }
+    ]
+  },
+  {
+    "title": "Multi-Agent System for Integrating Quality and Process Control in a Home Appliance Production Line",
+    "year": "2015",
+    "type": "book-chapter",
+    "venue": "Industrial Agents: Emerging Applications of Software Agents in Industry",
+    "doi": "10.1016/B978-0-12-800341-1.00016-4",
+    "authors": [
+      "Paulo Leitão",
+      "Nelson Rodrigues",
+      "Claudio Turrin",
+      "Arnaldo Pagani"
+    ],
+    "links": [
+      {
+        "kind": "doi",
+        "url": "https://doi.org/10.1016/B978-0-12-800341-1.00016-4"
+      },
+      {
+        "kind": "publisher",
+        "url": "https://www.sciencedirect.com/science/article/pii/B9780128003411000164"
+      },
+      {
+        "kind": "publisher",
+        "url": "https://www.sciencedirect.com/book/9780128003411/industrial-agents"
+      },
+      {
+        "kind": "publisher",
+        "url": "https://shop.elsevier.com/books/industrial-agents/leitao/978-0-12-800341-1"
+      },
+      {
+        "kind": "cordis",
+        "url": "https://cordis.europa.eu/project/id/246203"
+      },
+      {
+        "kind": "free",
+        "url": "https://bibliotecadigital.unipb.pt/handle/10198/16420"
+      }
+    ]
+  },
+  {
+    "title": "Multiagent System Integrating Process and Quality Control in a Factory Producing Laundry Washing Machines",
+    "year": "2015",
+    "type": "journal-article",
+    "venue": "IEEE Transactions on Industrial Informatics",
+    "url": "https://doi.org/10.1109/TII.2015.2431232",
+    "doi": "10.1109/TII.2015.2431232",
+    "authors": [
+      "Paulo Leitão",
+      "Nelson Rodrigues",
+      "Claudio Turrin",
+      "Arnaldo Pagani"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/7104129"
+      },
+      {
+        "kind": "repository",
+        "url": "http://hdl.handle.net/10198/13960"
+      }
+    ]
+  },
+  {
+    "title": "Self-interested service-oriented agents based on trust and QoS for dynamic reconfiguration",
+    "year": "2015",
+    "type": "book",
+    "venue": "Studies in Computational Intelligence",
+    "url": "https://doi.org/10.1007/978-3-319-15159-5_20",
+    "doi": "10.1007/978-3-319-15159-5_20",
+    "authors": [
+      "Nelson Rodrigues",
+      "Paulo Leitão",
+      "Eugénio Oliveira"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-319-15159-5_20"
+      },
+      {
+        "kind": "repository",
+        "url": "http://hdl.handle.net/10198/13959"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://link.springer.com/book/10.1007/978-3-319-15159-5"
+      }
+    ]
+  },
+  {
+    "title": "What-if game simulation in agent-based strategic production planners",
+    "year": "2015",
+    "type": "conference-paper",
+    "venue": "IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)",
+    "url": "https://doi.org/10.1109/ETFA.2015.7301438",
+    "doi": "10.1109/ETFA.2015.7301438",
+    "authors": [
+      "Paulo Leitão",
+      "Nelson Rodrigues",
+      "José Barbosa"
+    ],
+    "file": "2015-what-if-game-simulation-agent-based.pdf",
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/7301438"
+      },
+      {
+        "kind": "repository",
+        "url": "http://hdl.handle.net/10198/13834"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/7295717/proceeding"
+      }
+    ]
+  },
+  {
+    "title": "Can people with high physical movement restrictions access to any computer? The CaNWII tool",
+    "year": "2014",
+    "type": "book-chapter",
+    "venue": "Mathematical Methods in Engineering",
+    "doi": "10.1007/978-94-007-7183-3_26",
+    "authors": [
+      "Nuno Rodrigues",
+      "Nuno Martins",
+      "Jorge Barbosa"
+    ],
+    "hidden": "Not by N. R. Rodrigues: by Nuno Rodrigues (ISEC, Coimbra), imported via a Scopus profile merge on initials."
+  },
+  {
+    "title": "Dynamic composition of service oriented multi-agent system in self-organized environments",
+    "year": "2014",
+    "type": "conference-paper",
+    "venue": "ACM International Conference Proceeding Series",
+    "url": "https://doi.org/10.1145/2655985.2655990",
+    "doi": "10.1145/2655985.2655990",
+    "authors": [
+      "Nelson Rodrigues",
+      "Paulo Leitão",
+      "Eugénio Oliveira"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://dl.acm.org/doi/10.1145/2655985.2655990"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://dl.acm.org/doi/proceedings/10.1145/2655985"
+      },
+      {
+        "kind": "free",
+        "url": "https://bibliotecadigital.unipb.pt/handle/10198/13958"
+      }
+    ]
+  },
+  {
+    "title": "Self-organization Combining Incentives and Risk Management for a Dynamic Service-Oriented Multi-agent System",
+    "year": "2014",
+    "type": "conference-paper",
+    "venue": "IFIP Advances in Information and Communication Technology",
+    "url": "https://doi.org/10.1007/978-3-642-54734-12",
+    "doi": "10.1007/978-3-642-54734-12",
+    "authors": [
+      "Nelson Rodrigues",
+      "Eugénio Oliveira",
+      "Paulo Leitão"
+    ],
+    "file": "2014-self-organization-combining-incentives-risk-management.pdf",
+    "links": [
+      {
+        "kind": "doi",
+        "url": "https://doi.org/10.1007/978-3-642-54734-8_12"
+      },
+      {
+        "kind": "publisher",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-642-54734-8_12"
+      },
+      {
+        "kind": "repository",
+        "url": "https://inria.hal.science/hal-01274758"
+      },
+      {
+        "kind": "repository",
+        "url": "https://bibliotecadigital.unipb.pt/handle/10198/13957"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://link.springer.com/book/10.1007/978-3-642-54734-8"
+      }
+    ]
+  },
+  {
+    "title": "Adaptation of functional inspection test plan in a production line using a multi-agent system",
+    "year": "2013",
+    "type": "conference-paper",
+    "venue": "IEEE International Symposium on Industrial Electronics (ISIE)",
+    "url": "https://doi.org/10.1109/ISIE.2013.6563786",
+    "doi": "10.1109/ISIE.2013.6563786",
+    "authors": [
+      "Nelson Rodrigues",
+      "Paulo Leitão",
+      "Matthias Foehr",
+      "Claudio Turrin",
+      "Arnaldo Pagani",
+      "Roberto Decesari"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/6563786"
+      },
+      {
+        "kind": "repository",
+        "url": "https://bibliotecadigital.unipb.pt/handle/10198/9076"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/6554304/proceeding"
+      }
+    ]
+  },
+  {
+    "title": "Adaptive multi-agent system for a washing machine production line",
+    "year": "2013",
+    "type": "conference-paper",
+    "venue": "Lecture Notes in Computer Science",
+    "url": "https://doi.org/10.1007/978-3-642-40090-2_19",
+    "doi": "10.1007/978-3-642-40090-2_19",
+    "authors": [
+      "Nelson Rodrigues",
+      "Arnaldo Pereira",
+      "Paulo Leitão"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-642-40090-2_19"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://link.springer.com/book/10.1007/978-3-642-40090-2"
+      },
+      {
+        "kind": "free",
+        "url": "https://bibliotecadigital.unipb.pt/handle/10198/9087"
+      }
+    ]
+  },
+  {
+    "title": "Data collection for global monitoring and trend analysis in the GRACE multi-agent system",
+    "year": "2013",
+    "type": "conference-paper",
+    "venue": "Proceedings of the IEEE International Conference on Industrial Technology (ICIT)",
+    "url": "https://doi.org/10.1109/ICIT.2013.6505851",
+    "doi": "10.1109/ICIT.2013.6505851",
+    "authors": [
+      "Arnaldo Pereira",
+      "Nelson Rodrigues",
+      "Paulo Leitão"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/6505851"
+      },
+      {
+        "kind": "repository",
+        "url": "https://bibliotecadigital.unipb.pt/handle/10198/9102"
+      },
+      {
+        "kind": "cordis",
+        "url": "https://cordis.europa.eu/project/id/246203"
+      }
+    ]
+  },
+  {
+    "title": "Trust and risk management towards resilient large-scale cyber-physical systems",
+    "year": "2013",
+    "type": "conference-paper",
+    "venue": "IEEE International Symposium on Industrial Electronics (ISIE)",
+    "url": "https://doi.org/10.1109/ISIE.2013.6563837",
+    "doi": "10.1109/ISIE.2013.6563837",
+    "authors": [
+      "Arnaldo Pereira",
+      "Nelson Rodrigues",
+      "José Barbosa",
+      "Paulo Leitão"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/6563837"
+      },
+      {
+        "kind": "repository",
+        "url": "https://bibliotecadigital.unipb.pt/handle/10198/9078"
+      },
+      {
+        "kind": "repository",
+        "url": "https://uphf.hal.science/hal-03462912v1"
+      }
+    ]
+  },
+  {
+    "title": "Deployment of multi-agent systems for industrial applications",
+    "year": "2012",
+    "type": "conference-paper",
+    "venue": "IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)",
+    "url": "https://doi.org/10.1109/ETFA.2012.6489641",
+    "doi": "10.1109/ETFA.2012.6489641",
+    "authors": [
+      "Arnaldo Pereira",
+      "Nelson Rodrigues",
+      "Paulo Leitão"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/6489641"
+      },
+      {
+        "kind": "repository",
+        "url": "https://bibliotecadigital.unipb.pt/handle/10198/8756"
+      },
+      {
+        "kind": "cordis",
+        "url": "https://cordis.europa.eu/project/id/224053"
+      }
+    ]
+  },
+  {
+    "title": "GRACE ontology: inteGrating pRocess and quAlity Control",
+    "year": "2012",
+    "type": "conference-paper",
+    "venue": "IECON Proceedings (Industrial Electronics Conference)",
+    "url": "https://doi.org/10.1109/IECON.2012.6389189",
+    "doi": "10.1109/IECON.2012.6389189",
+    "authors": [
+      "Paulo Leitão",
+      "Nelson Rodrigues",
+      "Claudio Turrin",
+      "Arnaldo Pagani",
+      "Pierluigi Petrali"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/6389189"
+      },
+      {
+        "kind": "cordis",
+        "url": "https://cordis.europa.eu/project/id/246203"
+      },
+      {
+        "kind": "free",
+        "url": "https://hdl.handle.net/10198/8488"
+      }
+    ]
+  },
+  {
+    "title": "Modelling and validating the multi-agent system behaviour for a washing machine production line",
+    "year": "2012",
+    "type": "conference-paper",
+    "venue": "IEEE International Symposium on Industrial Electronics (ISIE)",
+    "url": "https://doi.org/10.1109/ISIE.2012.6237260",
+    "doi": "10.1109/ISIE.2012.6237260",
+    "authors": [
+      "Paulo Leitão",
+      "Nelson Rodrigues"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/6237260"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/6230783/proceeding"
+      },
+      {
+        "kind": "free",
+        "url": "http://hdl.handle.net/10198/7738"
+      }
+    ]
+  },
+  {
+    "title": "Quality control agents for adaptive visual inspection in production lines",
+    "year": "2012",
+    "type": "conference-paper",
+    "venue": "IECON Proceedings (Industrial Electronics Conference)",
+    "url": "https://doi.org/10.1109/IECON.2012.6389188",
+    "doi": "10.1109/IECON.2012.6389188",
+    "authors": [
+      "Lorenzo Stroppa",
+      "Nelson Rodrigues",
+      "Paulo Leitão",
+      "Nicola Paone"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/6389188"
+      },
+      {
+        "kind": "repository",
+        "url": "http://hdl.handle.net/10198/9101"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://ieeexplore.ieee.org/xpl/conhome/6373889/proceeding"
+      },
+      {
+        "kind": "project",
+        "url": "https://arquivo.pt/wayback/20160314121804/http://grace-project.org/index.php/publications/"
+      },
+      {
+        "kind": "cordis",
+        "url": "https://cordis.europa.eu/project/id/246203"
+      }
+    ]
+  },
+  {
+    "title": "Multi-agent system for on-demand production integrating production and quality control",
+    "year": "2011",
+    "type": "conference-paper",
+    "venue": "Lecture Notes in Computer Science",
+    "url": "https://doi.org/10.1007/978-3-642-23181-0_8",
+    "doi": "10.1007/978-3-642-23181-0_8",
+    "authors": [
+      "Paulo Leitão",
+      "Nelson Rodrigues"
+    ],
+    "links": [
+      {
+        "kind": "publisher",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-642-23181-0_8"
+      },
+      {
+        "kind": "proceedings",
+        "url": "https://link.springer.com/book/10.1007/978-3-642-23181-0"
+      },
+      {
+        "kind": "free",
+        "url": "http://hdl.handle.net/10198/7736"
+      }
+    ]
+  },
+  {
+    "title": "Data Structures and Algorithms",
+    "type": "lecture-speech",
+    "venue": "ISMAI",
+    "meta": "2019/2020"
+  },
+  {
+    "title": "R2U Technologies — modular system",
+    "type": "software",
+    "meta": "Principal Investigator",
+    "url": "https://r2utechnologies.pt/",
+    "authors": [
+      "Nelson Ricardo Rodrigues"
+    ],
+    "links": [
+      {
+        "kind": "project",
+        "url": "https://r2utechnologies.pt/wp-content/uploads/2026/06/Ficha-Projeto_R2UT-2026-3.pdf"
+      },
+      {
+        "kind": "project",
+        "url": "https://r2utechnologies.pt/pps/"
+      },
+      {
+        "kind": "project",
+        "url": "https://www.dtx-colab.pt/en/projects/"
+      },
+      {
+        "kind": "other",
+        "url": "https://recuperarportugal.gov.pt/prr-resiliencia/capitalizacao-e-inovacao-empresarial/re-c05-i01-01-agendas-aliancas-mobilizadoras-para-a-inovacao-empresarial/"
+      }
+    ]
+  }
+]
